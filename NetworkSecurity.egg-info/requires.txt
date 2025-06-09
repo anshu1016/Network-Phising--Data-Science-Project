@@ -6,6 +6,7 @@ pymongo[srv]==3.6
 pymongo
 certifi
 scikit-learn
+dill
 pandas
 numpy
 flask
@@ -14,3 +15,4 @@ pymongo[srv]==3.6
 pymongo
 certifi
 scikit-learn
+dill

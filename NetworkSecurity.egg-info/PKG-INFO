@@ -11,6 +11,7 @@ Requires-Dist: pymongo[srv]==3.6
 Requires-Dist: pymongo
 Requires-Dist: certifi
 Requires-Dist: scikit-learn
+Requires-Dist: dill
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: flask
@@ -19,6 +20,7 @@ Requires-Dist: pymongo[srv]==3.6
 Requires-Dist: pymongo
 Requires-Dist: certifi
 Requires-Dist: scikit-learn
+Requires-Dist: dill
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
