@@ -1,0 +1,12 @@
+pandas
+numpy
+flask
+python-dotenv
+pymongo[srv]==3.6
+pymongo
+certifi
+scikit-learn
+
+
+
+-e . 

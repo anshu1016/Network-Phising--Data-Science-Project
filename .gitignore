@@ -1,0 +1,5 @@
+myvenv
+.env
+networksecurity/logs/
+logs/
+Artifacts/
